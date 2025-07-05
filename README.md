@@ -1,3 +1,3 @@
 ## Overview
 
-TechStax Assignment Submission Repository - action-repo
+TechStax Assignment Submission Repository - Action Repo
